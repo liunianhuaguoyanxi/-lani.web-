@@ -1,0 +1,6 @@
+{
+  "title": "AI Data Privacy",
+  "message": "To provide AI-generated replies, the text you input or extract from screenshots will be sent to our third-party AI provider, DeepSeek. We never upload your images, and your text is not stored after processing.\n\nDo you agree to share this text?",
+  "agree_btn": "I Agree",
+  "decline_btn": "Decline"
+}
