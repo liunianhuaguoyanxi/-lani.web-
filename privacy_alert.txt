@@ -1,0 +1,1 @@
+To provide AI-generated replies, the text extracted from your screenshots or typed in this app will be sent to our third-party AI provider, DeepSeek. We do not upload your images.
